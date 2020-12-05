@@ -3,7 +3,7 @@
 ## Overview of Project
 Purpose and background should be well defined. Change the below link.
 
-**VBA Stock Analysis Excel File:** [VBA_Challenge.xlsx](https://github.com/borkard/kickstarter-analysis/files/VBA_Challenge.xlsx)
+**VBA Stock Analysis Excel File:** [VBA_Challenge.xlsm](https://github.com/borkard/stock-analysis/files/VBA_Challenge.xlsm)
 
 ## Results
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script. (Change the image below)
