@@ -6,7 +6,7 @@ The purpose of this project was to refactor VBA code to decrease the run-time fo
 **VBA Stock Analysis Excel File:** [VBA_Challenge.xlsm](https://github.com/borkard/stock-analysis/blob/main/VBA_Challenge.xlsm)
 
 ## Results
-Comparing the analysis of all the stocks in 2017 and 2018, nearly all stocks fared better in 2017. The stocks with the greatest return in 2017 were DQ, SEDG, ENPH, and FSLR; all with well over a 100% return rate. Only one stock, TERP, had a negative return in 2017. By contrast in 2018, nearly all stocks had a negative rate of return. With the exception of ENPH, all of the stocks that had the highest rate of return in 2017 had a negative return in 2018. Only two 2018 stocks had a positive rate of return: ENPH(81.9%) and RUN(84%).
+Comparing the analysis of all the stocks in 2017 and 2018, nearly all stocks fared better in 2017. The stocks with the greatest return in 2017 were DQ, SEDG, ENPH, and FSLR; all with well over a 100% return rate. Only one stock, TERP, had a negative return in 2017. By contrast, in 2018, nearly all stocks had a negative rate of return. With the exception of ENPH, all of the stocks that had the highest rate of return in 2017 had a negative return in 2018. Only two 2018 stocks had a positive rate of return: ENPH(81.9%) and RUN(84%).
 
 
 The images below show the post-refactoring run time for the analysis of 2017 and 2018 stocks. In the initial analysis, the run times were 0.953125 seconds and 0.9296875 seconds respectively. Refactoring the code greatly improved the efficiency of the analysis and run times as it does not have as many steps to run through and is laid out logically. 
