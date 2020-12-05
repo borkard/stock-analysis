@@ -2,8 +2,8 @@
 
 ## Overview of Project
 The purpose of this project was to refactor VBA code to decrease the run-time for analyzing a set of stocks. In a previous analysis ([green_stocks.xlsm](https://github.com/borkard/stock-analysis/blob/main/green_stocks.xlsm)) I had written and run a VBA code to analyze the total daily volume and return for a dozen stocks, but wanted to expand the analysis to include the entire stock market. The code for the previous analysis took a long time to run and would take even longer if it had to run through and analyze many more stock tickers. In the new analysis, the VBA_Challenge below, I tried to improve the efficiency of the code by refactoring it and using fewer steps including creating a ticker index and removing nested For loops.
-**VBA Stock Analysis Excel File:** 
-[VBA_Challenge.xlsm](https://github.com/borkard/stock-analysis/blob/main/VBA_Challenge.xlsm)
+
+**VBA Stock Analysis Excel File:** [VBA_Challenge.xlsm](https://github.com/borkard/stock-analysis/blob/main/VBA_Challenge.xlsm)
 
 ## Results
 Comparing the analysis of all the stocks in 2017 and 2018, nearly all stocks fared better in 2017. The stocks with the greatest return in 2017 were DQ, SEDG, ENPH, and FSLR; all with well over a 100% return rate. Only one stock, TERP, had a negative return in 2017. By contrast in 2018, nearly all stocks had a negative rate of return. With the exception of ENPH, all of the stocks that had the highest rate of return in 2017 had a negative return in 2018. Only two 2018 stocks had a positive rate of return: ENPH(81.9%) and RUN(84%).
