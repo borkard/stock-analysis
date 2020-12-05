@@ -8,7 +8,8 @@ Purpose and background should be well defined. Change the below link.
 ## Results
 Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script. (Change the image below)
 
-![Theater_Outcomes_vs_Launch](https://github.com/borkard/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
+![VBA_Challenge_2017](https://github.com/borkard/stock-analysis/blob/main/VBA_Challenge_2017.PNG)
+![VBA_Challenge_2018](https://github.com/borkard/stock-analysis/blob/main/VBA_Challenge_2018.PNG)
 
 ## Summary
 *What are the advantages or disadvantages of refactoring code?
