@@ -1,7 +1,7 @@
 # Stock Analysis
 
 ## Overview of Project
-The purpose of this project was to refactor VBA code to decrease the run-time for analyzing a set of stocks. In a previous analysis ([green_stocks.xlsm](https://github.com/borkard/stock-analysis/blob/main/green_stocks.xlsm)) I had written and run a VBA code to analyze the total daily volume and return for a dozen stocks, but wanted to expand the analysis to include the entire stock market. The code for the previous analysis took a long time to run and would take even longer if it had to run through and analyze many more stock tickers. In the new analysis, the VBA_Challenge below, I tried to improve the efficiency of the code by refactoring it and using fewer steps including creating a ticker index and removing nested For loops.
+The purpose of this project was to refactor VBA code to decrease the run-time for analyzing a set of stocks. In a previous analysis ([green_stocks.xlsm](https://github.com/borkard/stock-analysis/blob/main/green_stocks.xlsm)), I had written and run a VBA code to analyze the total daily volume and return for a dozen stocks, but wanted to expand the analysis to include the entire stock market. The code for the previous analysis took a long time to run and would take even longer if it had to run through and analyze many more stock tickers. In the new analysis, the VBA_Challenge below, I tried to improve the efficiency of the code by refactoring it and using fewer steps including creating a ticker index and removing nested For loops.
 
 **VBA Stock Analysis Excel File:** [VBA_Challenge.xlsm](https://github.com/borkard/stock-analysis/blob/main/VBA_Challenge.xlsm)
 
